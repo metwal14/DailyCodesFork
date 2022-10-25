@@ -5,7 +5,7 @@
 #Reverse of a string
 #The same string will be used for palindrome check.
 
-string = input('Enter the string. ')
+string = input('Enter your string')
 
 print("The reverse of the string is ", ''.join(list(reversed(string))))
 
